@@ -19,3 +19,6 @@ This project was created for learning and portfolio purposes.
 
 ## Author
 Tizian F.
+
+
+<img width="2555" height="1440" alt="Screenshot png" src="https://github.com/user-attachments/assets/0a62dd79-ac76-48c7-a24b-442627097a63" />
